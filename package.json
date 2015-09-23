@@ -1,0 +1,11 @@
+{
+  "name": "GoodnightNode",
+  "version": "0.0.0",
+  "description": "Goodnight Node js server",
+  "main": "app.js",
+  "author": "Howard",
+  "dependencies": {
+    "express": "^4.11.2",
+    "socket.io": "1.3.4"
+  }
+}
